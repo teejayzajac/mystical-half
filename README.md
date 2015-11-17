@@ -1,2 +1,2 @@
 # mystical-half
-Repository for the Mystical Half site
+This is the public repository for the Mystical Half site
